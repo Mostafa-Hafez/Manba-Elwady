@@ -1,0 +1,9 @@
+status 
+ validation in update quotation item
+search in "getquotationrequestitems"
+all status and quarable 
+new Api t get items for supplier 
+add new fields in Api send
+update addsupplierprice
+applyallpricing for quotation request
+
